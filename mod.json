@@ -1,0 +1,12 @@
+{
+  "geode": "v5.0.0",
+  "gd": {
+    "android": "2.2081"
+  },
+  "version": "v0.1.0",
+  "id": "yourname.ai-creator",
+  "name": "AI Creator",
+  "developer": "yourname",
+  "description": "AI chat tạo gameplay và deco cho Level Editor.",
+  "tags": ["editor"]
+}
